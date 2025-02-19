@@ -10,12 +10,12 @@ Sign up to cloudinary [here](https://cloudinary.com/ip/codewithania) to get star
 
 Using the sample env file, create a `.env` file in the root of your project and fill out your credentials.
 
-`
+```
 NEXT_PUBLIC_CLOUDINARY_CLOUD_NAME=
 NEXT_PUBLIC_CLOUDINARY_URL=CLOUDINARY_URL=
 NEXT_PUBLIC_CLOUDINARY_API_SECRET=
 NEXT_PUBLIC_CLOUDINARY_API_KEY=
-`
+```
 
 ## Getting Started
 
